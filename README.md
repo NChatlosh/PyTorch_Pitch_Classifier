@@ -1,0 +1,2 @@
+# PyTorch_Pitch_Classifier
+This project makes use of the PyTorch machine learning library to create a simple DNN that learns to classify pitch from audio files. I have started out with a very simple set of audio files. Each is a half-second long, normalized, mono (1 channel), and consists of a single waveform. I used a variety of simple sine, sawtooth, triangle, and square waves generated from the operator synthesizer in Ableton Live.   
